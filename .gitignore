@@ -1,0 +1,13 @@
+# Node modules
+backend/node_modules/
+stockcart/node_modules/
+
+# Environment variables
+backend/.env
+
+backend/package-lock.json
+backend/package.json
+
+stockcart/src/assets
+stockcart/package.json
+stockcart/package-lock.json
